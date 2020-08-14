@@ -1,5 +1,5 @@
 _repo: Early-memories-some-chapters-of-autobiography_62893
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Yeats, W. B. (William Butler)
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '1719'
     url: http://www.gutenberg.org/2009/agents/1719
     wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+covers:
+- cover_type: archival
+  image_path: 62893-h/images/memoires_cover.jpg
 creator:
   author:
     agent_name: Yeats, John Butler
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52177
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Yeats
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62893#Early-memories-some-chapters-of-autobiography
 gutenberg_issued: '2020-08-09'
 gutenberg_type: Text
 identifiers:
